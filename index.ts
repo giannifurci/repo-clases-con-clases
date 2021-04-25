@@ -1,5 +1,7 @@
 // crear las clases Edificio, Piso y Departamento aquí
 
+console.log("Estoy haciendo un cambio desde GitHub");
+
 class Departamento {
   nombre: string;
   constructor(nombre: string) {
